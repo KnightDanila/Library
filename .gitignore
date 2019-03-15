@@ -1,3 +1,4 @@
 # Ignore all files.
 *.jpg
+*-RAW.pdf
 !MAIN_P1050962_.jpg
