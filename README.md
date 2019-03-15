@@ -4,4 +4,4 @@ Library\
 \
 \
 \
-A Small Library of rare books
+A Small Library of Rare Books
